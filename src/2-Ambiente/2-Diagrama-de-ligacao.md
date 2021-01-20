@@ -9,4 +9,4 @@ Após reunir todos os materiais necessários, posicionar o LED com o pino positi
 
 ---
 
-<a  href="https://github.com/GiganteDev/Arduino-LED-potenciometro/blob/main/src/3-Execucao/1-Codigo.md"><img  src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
+<a  href="https://github.com/GiganteDev/Arduino-LED-potenciometro/blob/main/src/3-Execucao/1-Codigo.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
