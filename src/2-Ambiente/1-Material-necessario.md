@@ -6,4 +6,4 @@
 
 ---
 
-<a  href="https://github.com/GiganteDev/Arduino-LED/blob/main/src/2-Ambiente/2-Diagrama-de-ligacao.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
+<a  href="https://github.com/GiganteDev/Arduino-LED-potenciometro/blob/main/src/2-Ambiente/2-Diagrama-de-ligacao.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
