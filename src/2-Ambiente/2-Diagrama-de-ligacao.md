@@ -1,7 +1,7 @@
 ## 2.2 Diagrama de ligação
 
 <p align="center">
-  <img src="https://github.com/GiganteDev/Arduino-LED-potenciometro/blob/main/src/2-Ambiente/img-ligacao-arduino.png" width="520">
+  <img src="/src/2-Ambiente/img-ligacao-arduino.png" width="520">
 </p>
 
 <p align="center">Projeto Arduino: Intensidade do LED</p>
@@ -9,4 +9,4 @@ Após reunir todos os materiais necessários, posicionar o LED com o pino positi
 
 ---
 
-<a  href="https://github.com/GiganteDev/Arduino-LED-potenciometro/blob/main/src/3-Execucao/1-Codigo.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
+<a  href="/src/3-Execucao/1-Codigo.md"><img src="https://img.shields.io/badge/%E2%9E%94%20-Continuar-fff"/></a>
